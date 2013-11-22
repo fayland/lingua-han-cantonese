@@ -1,0 +1,33 @@
+{
+  "name": "lingua-han-cantonese",
+  "version": "0.0.1",
+  "description": "Retrieve the Cantonese(GuangDongHua) of Chinese character(HanZi)",
+  "main": "lingua-han-cantonese.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "./node_modules/.bin/nodeunit test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:fayland/lingua-han-cantonese.git"
+  },
+  "keywords": [
+    "chinese",
+    "cantonese",
+    "hanzi",
+    "guangdonghua"
+  ],
+  "author": "Fayland Lam <fayland@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fayland/lingua-han-cantonese/issues"
+  },
+  "dependencies": {
+
+  },
+  "devDependencies": {
+    "nodeunit": "~0.8.2"
+  }
+}
